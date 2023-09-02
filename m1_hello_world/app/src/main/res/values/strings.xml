@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="empty_bus">Все места свободны</string>
+    <string name="reset_button">Сброс</string>
+    <string name="over_crowded_bus">Пассажиров слишком много</string>
+</resources>
