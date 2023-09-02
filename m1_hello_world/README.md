@@ -1,2 +1,14 @@
+#Passanger counter
 
-<img src="https://github.com/KonstantinSham/proba/assets/69507445/647f8957-ef8a-4e8a-8a41-efb08b236f22" width="340" height="699" />  <br>
+##Основной функционал
+- Нажатие кнопок «+» и «-» изменяет значение счётчика и тестовых полей на «+1» и «-1».
+- Кнопка «Сброс» сбрасывает счётчик, но и возвращает приложение в первоначальное состояние.
+- Если все места свободны, текст по середине — зелёный, кнопка «-» — недоступна.
+- При количестве пассажиров от 1 до 49 текст синий, кнопки доступны. Кнопка «Сброс» невидимая.
+- При количестве пассажиров 50 и выше текст красный, появляется кнопка «Сброс».
+
+## Screenshots:
+<img src="https://github.com/KonstantinSham/proba/assets/69507445/561cbd73-3586-43a9-8f01-d46aede876ea" width="340" height="699" />  <br>
+<img src="https://github.com/KonstantinSham/proba/assets/69507445/1b0aef90-ee45-4638-a515-75d62163f7be" width="340" height="699" />  <br>
+<img src="https://github.com/KonstantinSham/proba/assets/69507445/8abf3cab-7248-4345-8994-b5196ccdaa7d" width="340" height="699" />  <br>
+
