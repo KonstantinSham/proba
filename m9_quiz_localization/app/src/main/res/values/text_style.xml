@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="QuizTextStyle" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="QuizTextStyle.Question">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="QuizTextStyle.Radio">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>

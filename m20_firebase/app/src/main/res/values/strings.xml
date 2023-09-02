@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YandexNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="push_me">push for notification</string>
+</resources>

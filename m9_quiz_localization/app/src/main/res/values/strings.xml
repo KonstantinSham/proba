@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">English Quiz</string>
+    <string name="button_to_continue">Start</string>
+    <string name="zaglushka">Empty</string>
+    <string name="back_button">Back</string>
+    <string name="send_button">Send</string>
+    <string name="reset_quiz">Restart Quiz</string>
+    <string name="enter_date_of_birth">Enter date of birth</string>
+    <string name="choose_the_date_dialog_title">Choose your date of birth</string>
+</resources>

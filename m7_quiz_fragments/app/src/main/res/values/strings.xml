@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">English Quiz</string>
+    <string name="button_to_continue">Начать</string>
+    <string name="zaglushka">Заглушка</string>
+    <string name="back_button">Назад</string>
+    <string name="send_button">Отправить</string>
+    <string name="reset_quiz">Начать заново</string>
+</resources>

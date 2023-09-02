@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497852982001",
+    "project_id": "map-firebase-project-4633e",
+    "storage_bucket": "map-firebase-project-4633e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497852982001:android:a8143e05785f3497febf50",
+        "android_client_info": {
+          "package_name": "com.example.yandexnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497852982001-u4c8m68cs282llgsrfahmrrkhna19g0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJ_vG80XEuvMCUaDPEfOjrnd8I1jNk0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497852982001-u4c8m68cs282llgsrfahmrrkhna19g0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

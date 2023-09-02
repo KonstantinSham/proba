@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Англйский квиз</string>
+    <string name="button_to_continue">Начать</string>
+    <string name="zaglushka">Заглушка</string>
+    <string name="back_button">Назад</string>
+    <string name="send_button">Отправить</string>
+    <string name="reset_quiz">Начать заново</string>
+    <string name="enter_date_of_birth">Введите дату своего рождения</string>
+    <string name="choose_the_date_dialog_title">Укажите дату рождения</string>
+</resources>

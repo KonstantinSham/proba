@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SkillBoxText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="SkillBoxText.Bold">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SkillBoxText.Small">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="SkillBoxText.Big">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SkillBoxText.Huge">
+        <item name="android:textSize">100sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

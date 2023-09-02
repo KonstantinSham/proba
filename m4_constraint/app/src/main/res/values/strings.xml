@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Player Design</string>
+    <string name="singer">Исполнитель</string>
+    <string name="song">Наименование композиции</string>
+</resources>
