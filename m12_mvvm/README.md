@@ -6,7 +6,11 @@
 - После завершения поиска, прогресс исчезает и отображается текст «По запросу <текст запроса> ничего не найдено».
 
 ## Screenshots:
+
 Стартовое окно: <br>
+
 <img src="https://github.com/KonstantinSham/proba/assets/69507445/55f27d15-edf2-4593-a295-4c5c549ccc4a" width="340" height="699" />  <br>
+
 Окно квиза: <br>
-<img src="https://github.com/KonstantinSham/proba/assets/69507445/072df0ca-e08d-4e72-a972-4f2f8cf73f25" width="1400" height="699" />  <br>
+
+![screenshot_record](https://github.com/KonstantinSham/proba/assets/69507445/fa24e4f3-5c0e-4519-bcf2-4e5d4e5f74b8)
