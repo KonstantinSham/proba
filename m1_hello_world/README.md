@@ -8,7 +8,16 @@
 - При количестве пассажиров 50 и выше текст красный, появляется кнопка «Сброс».
 
 ## Screenshots:
+
+Стартовое окно: <br>
+
 <img src="https://github.com/KonstantinSham/proba/assets/69507445/561cbd73-3586-43a9-8f01-d46aede876ea" width="340" height="699" />  <br>
+
+Заполнение мест: <br>
+
 <img src="https://github.com/KonstantinSham/proba/assets/69507445/1b0aef90-ee45-4638-a515-75d62163f7be" width="340" height="699" />  <br>
+
+Полная загрузка: <br>
+
 <img src="https://github.com/KonstantinSham/proba/assets/69507445/8abf3cab-7248-4345-8994-b5196ccdaa7d" width="340" height="699" />  <br>
 
