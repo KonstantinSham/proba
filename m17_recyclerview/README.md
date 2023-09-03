@@ -13,4 +13,4 @@
 
 Гифка работы приложения: <br>
 
-<img src="https://github.com/KonstantinSham/proba/assets/69507445/c6790aea-159d-4cb0-ab9a-af24e28f6e4c" width="1400" height="699" />  <br>
+![screenshot_record](https://github.com/KonstantinSham/proba/assets/69507445/ef5f0e35-e352-4cf9-9a81-dadc815846ad)
