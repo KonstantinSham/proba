@@ -11,6 +11,6 @@
 
 <img src="https://github.com/KonstantinSham/proba/assets/69507445/55f27d15-edf2-4593-a295-4c5c549ccc4a" width="340" height="699" />  <br>
 
-Окно квиза: <br>
+Гифка работы приложения: <br>
 
 ![screenshot_record](https://github.com/KonstantinSham/proba/assets/69507445/fa24e4f3-5c0e-4519-bcf2-4e5d4e5f74b8)
